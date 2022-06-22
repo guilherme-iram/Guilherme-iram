@@ -1,7 +1,8 @@
 # 💫About Me :
-Hey 👍,
+Hey, how are you? 👍,
 
 Undergrad Data Science and Artificial Intelligence at Federal University of Paraiba.
+Currently studying operational research and optimization for Vehicle Routing Problem.
 
 ## 🚀 My Interests
 * Data Science
