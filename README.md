@@ -2,7 +2,7 @@
 Hey, how are you? 👍,
 
 - Undergrad Data Science and Artificial Intelligence at Federal University of Paraiba.
-- Currently studying operational research and optimization for Vehicle Routing Problem (VRP).
+- Currently studying operational research and optimization for Vehicle Routing Problem (VRP) and some variants, kind VRPTW and CVRP.
 
 ## 🚀 My Interests
 * Data Science
