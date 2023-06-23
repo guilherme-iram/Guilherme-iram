@@ -4,6 +4,14 @@ Hey, how are you? 👍,
 - Undergrad Data Science and Artificial Intelligence at Federal University of Paraiba.
 - Currently studying operational research and optimization for Vehicle Routing Problem (VRP) and some variants, kind VRPTW and CVRP.
 
+## 👾 What will you find in this profile?
+- Machine Learning for Classification (PLA, Logistic Regression, Decision Tree, Neural Networks);
+- Machine Learning for Regression (Linear Regression, Decision Tree and Random Forest for Regression);
+- Graphs and depth and breadth search algorithms, and minimum cut algorithm;
+- Operational Research: mathematical models and their respective resolutions using the simplex method and the branch and bound algorithm;
+- Optimization: implementation of metaheuristics to solve TSP and VRP;
+- Database: projects involving the creation of the database architecture from 0 to its implementation in the code with their respective queries for creating tables, updating, removing and adding records.
+
 ## 🚀 My Interests
 * Data Science
 * Data Engineering
