@@ -6,11 +6,26 @@ Hey, how are you? 👍,
 - Also studying and doing projects involving Machine Learning and data engineering.
 
 ## 👾 What will you find in this profile?
-- Machine Learning for Classification (PLA, Logistic Regression, Decision Tree, Neural Networks);
-- Machine Learning for Regression (Linear Regression, Decision Tree and Random Forest for Regression);
-- Graphs and depth and breadth search algorithms, and minimum cut algorithm;
-- Operational Research: mathematical models and their respective resolutions using the simplex method and the branch and bound algorithm;
-- Optimization: implementation of metaheuristics to solve TSP and VRP;
+- Machine Learning for Classification
+    - PLA
+    - Logistic Regression
+    - Decision Tree
+    - Neural Networks
+- Machine Learning for Regression
+   - Linear Regression
+   - Decision Tree for Regression
+   - Random Forest for Regression
+- Graphs
+   - Depth search algorithm
+   - Breadth search algorithm
+   - Minimum cut algorithm
+- Operational Research
+   - Mathematical models
+   - Simplex method
+   - Branch and bound algorithm;
+- Optimization: implementation of metaheuristics to solve
+    - TSP
+    - VRP
 - Database: projects involving the creation of the database architecture from 0 to its implementation in the code with their respective queries for creating tables, updating, removing and adding records.
 
 ## 🚀 My Interests
@@ -20,7 +35,6 @@ Hey, how are you? 👍,
 * Artificial Intelligence
 * Optimization
 * Operational Research 
-
 
 # 💻Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
